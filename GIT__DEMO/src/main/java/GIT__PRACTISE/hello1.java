@@ -9,5 +9,10 @@ public class hello1
 	   int a=10;int b=20;
 	   int res =a+b;
 	   System.out.println(res);
+	  
+	   
+	   int c=10;int d=20;
+	   int res1 =a+b;
+	   System.out.println(res1);
  }
 }
