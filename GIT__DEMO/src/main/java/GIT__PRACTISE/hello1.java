@@ -14,5 +14,10 @@ public class hello1
 	   int c=10;int d=20;
 	   int res1 =a+b;
 	   System.out.println(res1);
+	   
+	   
+	   
+	   
+	   System.out.println("hllo udvu");
  }
 }
