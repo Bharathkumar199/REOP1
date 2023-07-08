@@ -9,6 +9,6 @@ public class swap
 	a=b;
 	b=temp;
 	
-	System.out.println("the swap of two numbers is " + a + "and" + b );
+	//System.out.println("the swap of two numbers is " + a + "and" + b );
    } 
 }
