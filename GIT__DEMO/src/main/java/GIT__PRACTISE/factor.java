@@ -15,5 +15,6 @@ public class factor
 			
 		}
 		System.out.println("then given number of " + n + " factroial is " + fact);
+		System.out.println("hi");
 	}
 }
