@@ -12,5 +12,7 @@ public class classA
 			double result=pi*r*r;
 			System.out.println("The value of circle is = "+ result);
 			sc.close();
+			System.out.println("hi how are you");
+
 		}
 }
