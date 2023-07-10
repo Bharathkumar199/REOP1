@@ -34,9 +34,15 @@ public class amstrong
 		{
 			System.out.println("then the given no is  not Amstrong number");
 		}
+<<<<<<< Updated upstream
             System.out.println("hi");
 			System.out.println("hello");
 				System.out.println("hi");
 			System.out.println("hello");
+=======
+		
+		System.out.println("hello");
+
+>>>>>>> Stashed changes
 	}
 }
