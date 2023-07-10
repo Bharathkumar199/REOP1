@@ -34,10 +34,5 @@ public class amstrong
 		{
 			System.out.println("then the given no is  not Amstrong number");
 		}
-
-			
-				
 	}
-
-
 }
