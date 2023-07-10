@@ -10,6 +10,7 @@ public class add_t
 		
 		int res =a+b;
 		System.out.println(res);
+		System.out.println("hi");
 		
 	}
 }
